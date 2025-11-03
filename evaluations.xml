@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evaluation>
+  <!-- 
+    Space MCP Server Evaluations
+    
+    NOTE: These questions focus on historical space data that is stable over time.
+    Questions avoid dynamic data like "upcoming launches" or "current ISS position"
+    which change constantly and would make evaluation impossible.
+  -->
+  
+  <qa_pair>
+    <question>Find NASA's first ever Astronomy Picture of the Day (APOD) from June 16, 1995. What astronomical object or phenomenon is featured in the title? Provide the exact title text.</question>
+    <answer>Neutron Star Earth</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>On July 4, 2012 (sol 1), the Curiosity rover landed on Mars. How many photos did it take on its first Martian day? Count all cameras. Provide only the number.</question>
+    <answer>3540</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Look at the Astronomy Picture of the Day for December 25, 2024. According to the explanation, this object is approximately how many kilometers away from Earth? Provide only the number without units.</question>
+    <answer>384400</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Compare Mars rover photos: On sol 1000, did the Curiosity rover's Front Hazard Avoidance Camera (FHAZ) take more photos than the Rear Hazard Avoidance Camera (RHAZ)? Answer only True or False.</question>
+    <answer>True</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Search for the APOD from January 15, 2024. If the media type is "video", what is the domain name of the video URL (e.g., youtube.com)? If it's an image, respond with "image". Provide only the domain or "image".</question>
+    <answer>youtube.com</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Examine Mars Perseverance rover photos from February 18, 2021 (landing day). Did the rover take any photos that day, and if so, what was the total number? Provide only the number, or 0 if none.</question>
+    <answer>54</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Find the APOD for Halloween 2024 (October 31, 2024). Does the title contain the word "Ghost"? Answer only True or False.</question>
+    <answer>True</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>On Mars sol 500, did Curiosity's Mast Camera (MAST) take any photos? If yes, provide the Earth date of sol 500 in YYYY-MM-DD format. If no photos were taken, respond with "none".</question>
+    <answer>2013-12-18</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Track Near-Earth Objects between December 1-7, 2024. How many NEOs were classified as "potentially hazardous" during this period? Provide only the number.</question>
+    <answer>12</answer>
+  </qa_pair>
+  
+  <qa_pair>
+    <question>Find the Astronomy Picture of the Day from exactly one year before December 25, 2024. Does the explanation mention the word "galaxy" or "galaxies"? Answer only True or False.</question>
+    <answer>True</answer>
+  </qa_pair>
+  
+</evaluation>
