@@ -274,4 +274,4 @@ Potential enhancements:
 
 **Made with ❤️ for space exploration by Emmanuel Kasigazi and Claude Code!**
 
-Explore the cosmos with me and claude 🌌✨
+Explore the cosmos with me (Emmanuel Kasigazi) and claude 🌌✨
